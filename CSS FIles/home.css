@@ -51,6 +51,11 @@
     cursor: pointer;
 }
 
+.home-left-buttons button a{
+    text-decoration: none;
+    color: #fff;
+}
+
 .home-left-buttons button:nth-of-type(1){
     margin: 0 50px 0 0;
     background-color: #4F4F4F;
